@@ -20,7 +20,7 @@ A visually appealing and user-friendly signup page with a blurred-glass effect a
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abdullah-Maqbool/simple-login-form.git
+   git clone https://github.com/Abdullah-Maqbool1/simple-login-form.git
    ```
 2. Navigate to the project folder:
    ```bash
